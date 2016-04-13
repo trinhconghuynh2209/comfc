@@ -244,10 +244,10 @@ public class FaceTokenLoader {
 			response2.close();
 		}
 	}
-
+/*
 	public static void main(String[] args) {
 		FaceTokenLoader login = new FaceTokenLoader();
-		LOGGER.info(login.getShortLivedAccessToken("mini_miu_miu2691@yahoo.com", "saywhat26912"));
-	}
+		LOGGER.info(login.getShortLivedAccessToken("", ""));
+	}*/
 	
 }
